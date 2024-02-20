@@ -6,7 +6,7 @@
 
 -[Urban exploration Ressource](https://www.uer.ca/): A basic account of this site shows some urbex locations and lets you talk with other users. (Keep in mind that the this website doesn't give away spot locations and is rather mostly just a forum to communicate with other enthusiastes).
 
--Trailforks.com : Trailforks is a database of all trails, wether hiking, mountain biking or any other recreational activity. Trailforks shows information (trail conditions) about specific trails as well as heatmaps to plan and organize your hike. 
+-[Trailforks](https://www.trailforks.com/trails/) : Trailforks is a database of all trails, wether hiking, mountain biking or any other recreational activity. Trailforks shows information (trail conditions) about specific trails as well as heatmaps to plan and organize your hike. 
 
 stellarium
 
