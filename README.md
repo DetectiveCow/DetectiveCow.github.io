@@ -8,3 +8,6 @@
 
 -Trailforks: Trailforks.com Trailforks is a database of all trails, wether hiking, mountain biking or any other recreational activity. Trailforks shows information (trail conditions) about specific trails as well as heatmaps to plan and organize your hike. 
 
+stellarium
+
+openstreetmap
