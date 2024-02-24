@@ -10,4 +10,6 @@
 
 [Stellarium](https://stellarium-web.org/) : Stellarium is a open source planetarium on your computer. It has extensive catalogues with hundreds of millions of stars and deep sky object. 
 
+[ClearDarkSKy](https://www.cleardarksky.com/) : ClearDarkSky.com is a cloud forecasting website. It accuratly predicts the cloud coverage of your area. I like to use it to see how dark the night sky will be for stargazing/astrophotagraphy
+
 [OpenStreetMap](https://www.openstreetmap.org/): Open street map is a more accurate google maps. It let's users contribute to locations by adding/changing details to make the map more precise. I personally enjoy looking at the transport map, it's really interesting. 
