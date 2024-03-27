@@ -6,7 +6,7 @@
 
 [Click here for places I'd like to go](#Places-I'd-like-to-go-in-Canada)
 
-
+[Click here for forestry stuff](#Forestry)
 
 
 
@@ -84,3 +84,23 @@ Coquihalla 💀
 [Killarney Provincial Park](https://www.google.com/maps/place/Killarney+Provincial+Park/@52.3792586,-130.6518843,5z/data=!4m11!1m3!11m2!2sBVJXwAraR4jtRVQhQPDRHO5OP1pf4g!3e2!3m6!1s0x4d2e6c5ae9793ae1:0xab0f543d9d07100e!8m2!3d46.0130463!4d-81.4017487!15sCgEqWgMiASqSAQRwYXJr4AEA!16zL20vMDkyNjN4?entry=ttu), Killarney Provincial Park is a park I discovered while watching Xander Butnick on youtube. He went canoeing across the lakes in this park. It standsa out to me because I never really thought that ontario would have theses types of landscapes. I kinda thought it was all flat and borring. 
 
 [Wells Gray Prov Park](https://www.google.com/maps/place/Wells+Gray+Provincial+Park/@52.3792586,-130.6518843,5z/data=!4m11!1m3!11m2!2sBVJXwAraR4jtRVQhQPDRHO5OP1pf4g!3e2!3m6!1s0x5381dbc505522a19:0x9d5c0a9146193d59!8m2!3d52.3792586!4d-120.1050093!15sCgEqWgMiASqSAQRwYXJr4AEA!16zL20vMDhiYnlm?entry=ttu) : This park is just a cool provincial park in bc, It has some great views and a few different waterfalls. Id definitively like to try and check it out someday. 
+
+
+
+# #Forestry
+I'd like to do forestry maybe so heres tools and website Im going to use.
+
+Job boards
+[Forestry Jobs In canada](https://www.canadian-forests.com/job.html). Basically a job board to find forestry opportunities all across Canada. (Even though I'd prefer bc)
+[Forestry Jobs In The US](https://www.forestryusa.com/jobs.html). Same thing but in the united states. Not planning on working there though. 
+
+Subreddits
+[r/Forestry](https://www.reddit.com/r/forestry/). A place to discuss forestry with others online. Some are like me and others have jobs in the trade. 
+[r/Tree Planting](https://www.reddit.com/r/treeplanting/). Subreddit for the discussion of treeplanting, cool place to hear other peoples experience. I think treeplanting is really good and challenging experience that will let you learn alot. 
+
+Youtube videos
+[Kat evergreen](https://www.youtube.com/@kat_evergreen). This person basically just documented her season of treeplanting and shows you what to expect. 
+[BC Bigfoot](https://www.youtube.com/watch?v=z3GpMpfjHZk&ab_channel=BritishColumbiaBigfoot). This guy has a good video I'll link about being a forest technician, he has his own company i think and makes it look fun. But he doesnt really explain what he does or what a forest technician is.
+**Hengda**. This guy has a video on what you do as a forestry technician in BC. He talks about what you do and what to expect i think. 
+
+also i need to add like tree guide website and shit
