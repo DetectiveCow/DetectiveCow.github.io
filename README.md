@@ -29,9 +29,12 @@
 
 
 # #Coolest highways in canada 
-All highways in the country ![Roads-Canada-frame](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/3885383e-ab27-4e23-9cbe-9f6b2d3aeac9) 
+All highways in the country 
+
+![Roads-Canada-frame](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/3885383e-ab27-4e23-9cbe-9f6b2d3aeac9) 
 
 Trans Canada
+
 ![TransCanadaHWY](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/23ac891a-8180-4123-a8ac-487a6c92413d)
 
 Yellowhead HWY ![YellowheadHWY](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/27b1fae5-da0a-4d11-a2bc-605e35e83bab)
