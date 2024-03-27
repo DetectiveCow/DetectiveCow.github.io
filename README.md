@@ -13,3 +13,16 @@
 [ClearDarkSKy](https://www.cleardarksky.com/) : ClearDarkSky.com is a cloud forecasting website. It accuratly predicts the cloud coverage of your area. I like to use it to see how dark the night sky will be for stargazing/astrophotagraphy
 
 [OpenStreetMap](https://www.openstreetmap.org/): Open street map is a more accurate google maps. It let's users contribute to locations by adding/changing details to make the map more precise. I personally enjoy looking at the transport map, it's really interesting. 
+
+
+
+Coolest highways in bc 
+![Roads-Canada-frame](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/3885383e-ab27-4e23-9cbe-9f6b2d3aeac9)
+![TransCanadaHWY](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/23ac891a-8180-4123-a8ac-487a6c92413d)
+![YellowheadHWY](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/27b1fae5-da0a-4d11-a2bc-605e35e83bab)
+![AlaskaHwy](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/bbcc6403-e663-4576-b785-665233144f89)
+![DemsterHWYmap](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/dd3cae3b-83e0-4683-a24c-6f4384851e45)
+![InuvikTuktoyatukHwyMap](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/09322734-1ce0-49a1-872d-c8d8dc6eceda)
+s![SeaToSkyHwy](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/1d8c9d8f-5e5a-44b0-bc38-24ad20eb323b)
+![coquihalla](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/80604ba3-b6af-4da4-b263-63ae33a4d4fb)
+![Screenshot_11](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/11d2df93-88fe-4021-b2fa-53cb5b6acd81) Artillery platforms along the coquihalla highway that would let hgihway patrol to shoot down the snow before it piled up and became a avalanche risk. prolly not in use now
