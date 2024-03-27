@@ -4,7 +4,7 @@
 
 [Click here for maps of major highways in Canada](#Coolest-highways-in-canada)
 
-[Click here for places I'd like to go](#Places-I'd-like-to go-in-Canada)
+[Click here for places I'd like to go](#Places-I'd-like-to-go-in-Canada)
 
 
 
