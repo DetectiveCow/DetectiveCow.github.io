@@ -31,7 +31,8 @@
 # #Coolest highways in canada 
 All highways in the country ![Roads-Canada-frame](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/3885383e-ab27-4e23-9cbe-9f6b2d3aeac9) 
 
-Trans Canada ![TransCanadaHWY](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/23ac891a-8180-4123-a8ac-487a6c92413d)
+Trans Canada
+![TransCanadaHWY](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/23ac891a-8180-4123-a8ac-487a6c92413d)
 
 Yellowhead HWY ![YellowheadHWY](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/27b1fae5-da0a-4d11-a2bc-605e35e83bab)
 
@@ -47,7 +48,7 @@ Coquihalla 💀 ![coquihalla](https://github.com/DetectiveCow/DetectiveCow.githu
 ![Screenshot_11](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/11d2df93-88fe-4021-b2fa-53cb5b6acd81) Artillery platforms along the coquihalla highway that would let hgihway patrol to shoot down the snow before it piled up and became a avalanche risk. prolly not in use now
 
 
-#Places I'd like to go in Canada
+# #Places I'd like to go in Canada
 [Mount King george](https://www.google.com/maps/place/Mount+King+George/@48.0578807,-139.7264798,5z/data=!4m11!1m3!11m2!2sBVJXwAraR4jtRVQhQPDRHO5OP1pf4g!3e2!3m6!1s0x537087a5491fbe89:0xa5512cda70a1ea36!8m2!3d50.5963888!4d-115.405!15sCgEqkgEEcGVha-ABAA!16s%2Fg%2F11clg_50xf?entry=ttu), mount king george seems like a nice mountain to try and peak, bc has a bunch of mountains to climnb but this is one id like to try. 
 
 [Mount Pilchuck](https://www.google.com/maps/place/Mt+Pilchuck/@48.0578807,-139.7264798,5z/data=!4m11!1m3!11m2!2sBVJXwAraR4jtRVQhQPDRHO5OP1pf4g!3e2!3m6!1s0x549ab43233fd5bad:0xf0dcde198862fd33!8m2!3d48.0578807!4d-121.7967923!15sCgEqWgMiASqSAQRwZWFr4AEA!16zL20vMGc2bjFt?entry=ttu), This mountain is nice because its pretty close and accesible to my house. You can acess it by paved roads and the mountain has multiple trails. What really stands out is the old lookout tower on top of the mountain with paranomic views on rainier mountains. Its probably really busy though because social media has made this spot famous. 
