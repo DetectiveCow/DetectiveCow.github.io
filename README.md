@@ -1,5 +1,10 @@
 # This page is a directory for some of the coolest website/tools I found. All focused on exploring.
 
+[Click here to see the websites](#Website-list)
+
+
+#Website list
+
 -[Railroad Map](https://openrailwaymap.org/): Useful to acess map of almost all used railways around the globe. (Site can be a bit slow)
 
 [-Google earth](https://earth.google.com/web/@59.23243203,-118.63634219,747.39594652a,1252734.83597472d,35y,15.61736416h,11.48405004t,-0r/data=OgMKATA): I prefer google earth rather than to maps beecause of the 3d functionality. It lets you see most big citys in impressive detail and other places (such as mountain ranges) in not as good detail. 
