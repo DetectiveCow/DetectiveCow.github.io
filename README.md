@@ -69,9 +69,9 @@ SeaToSkyHwy
 Coquihalla 💀
 
 ![coquihalla](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/80604ba3-b6af-4da4-b263-63ae33a4d4fb)
+ Artillery platforms along the coquihalla highway that would let hgihway patrol to shoot down the snow before it piled up and became a avalanche risk. prolly not in use now
 
-![Screenshot_11](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/11d2df93-88fe-4021-b2fa-53cb5b6acd81) Artillery platforms along the coquihalla highway that would let hgihway patrol to shoot down the snow before it piled up and became a avalanche risk. prolly not in use now
-
+![Screenshot_11](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/11d2df93-88fe-4021-b2fa-53cb5b6acd81)
 
 
 
