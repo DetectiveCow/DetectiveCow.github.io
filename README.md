@@ -4,8 +4,7 @@
 
 [Click here for maps of major highways in Canada](#Coolest-highways-in-canada)
 
-
-
+[Click here for places I'd like to go](#Places-I'd-like-to go-in-Canada)
 
 
 
@@ -46,3 +45,13 @@ SeaToSkyHwy ): s![SeaToSkyHwy](https://github.com/DetectiveCow/DetectiveCow.gith
 
 Coquihalla 💀 ![coquihalla](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/80604ba3-b6af-4da4-b263-63ae33a4d4fb)
 ![Screenshot_11](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/11d2df93-88fe-4021-b2fa-53cb5b6acd81) Artillery platforms along the coquihalla highway that would let hgihway patrol to shoot down the snow before it piled up and became a avalanche risk. prolly not in use now
+
+
+#Places I'd like to go in Canada
+[Mount King george](https://www.google.com/maps/place/Mount+King+George/@48.0578807,-139.7264798,5z/data=!4m11!1m3!11m2!2sBVJXwAraR4jtRVQhQPDRHO5OP1pf4g!3e2!3m6!1s0x537087a5491fbe89:0xa5512cda70a1ea36!8m2!3d50.5963888!4d-115.405!15sCgEqkgEEcGVha-ABAA!16s%2Fg%2F11clg_50xf?entry=ttu), mount king george seems like a nice mountain to try and peak, bc has a bunch of mountains to climnb but this is one id like to try. 
+
+[Mount Pilchuck](https://www.google.com/maps/place/Mt+Pilchuck/@48.0578807,-139.7264798,5z/data=!4m11!1m3!11m2!2sBVJXwAraR4jtRVQhQPDRHO5OP1pf4g!3e2!3m6!1s0x549ab43233fd5bad:0xf0dcde198862fd33!8m2!3d48.0578807!4d-121.7967923!15sCgEqWgMiASqSAQRwZWFr4AEA!16zL20vMGc2bjFt?entry=ttu), This mountain is nice because its pretty close and accesible to my house. You can acess it by paved roads and the mountain has multiple trails. What really stands out is the old lookout tower on top of the mountain with paranomic views on rainier mountains. Its probably really busy though because social media has made this spot famous. 
+
+[Killarney Provincial Park](https://www.google.com/maps/place/Killarney+Provincial+Park/@52.3792586,-130.6518843,5z/data=!4m11!1m3!11m2!2sBVJXwAraR4jtRVQhQPDRHO5OP1pf4g!3e2!3m6!1s0x4d2e6c5ae9793ae1:0xab0f543d9d07100e!8m2!3d46.0130463!4d-81.4017487!15sCgEqWgMiASqSAQRwYXJr4AEA!16zL20vMDkyNjN4?entry=ttu), Killarney Provincial Park is a park I discovered while watching Xander Butnick on youtube. He went canoeing across the lakes in this park. It standsa out to me because I never really thought that ontario would have theses types of landscapes. I kinda thought it was all flat and borring. 
+
+[Wells Gray Prov Park](https://www.google.com/maps/place/Wells+Gray+Provincial+Park/@52.3792586,-130.6518843,5z/data=!4m11!1m3!11m2!2sBVJXwAraR4jtRVQhQPDRHO5OP1pf4g!3e2!3m6!1s0x5381dbc505522a19:0x9d5c0a9146193d59!8m2!3d52.3792586!4d-120.1050093!15sCgEqWgMiASqSAQRwYXJr4AEA!16zL20vMDhiYnlm?entry=ttu) : This park is just a cool provincial park in bc, It has some great views and a few different waterfalls. Id definitively like to try and check it out someday. 
