@@ -91,16 +91,25 @@ Coquihalla 💀
 I'd like to do forestry maybe so heres tools and website Im going to use.
 
 Job boards
+
 [Forestry Jobs In canada](https://www.canadian-forests.com/job.html). Basically a job board to find forestry opportunities all across Canada. (Even though I'd prefer bc)
+
 [Forestry Jobs In The US](https://www.forestryusa.com/jobs.html). Same thing but in the united states. Not planning on working there though. 
 
+
 Subreddits
+
 [r/Forestry](https://www.reddit.com/r/forestry/). A place to discuss forestry with others online. Some are like me and others have jobs in the trade. 
+
 [r/Tree Planting](https://www.reddit.com/r/treeplanting/). Subreddit for the discussion of treeplanting, cool place to hear other peoples experience. I think treeplanting is really good and challenging experience that will let you learn alot. 
 
+
 Youtube videos
+
 [Kat evergreen](https://www.youtube.com/@kat_evergreen). This person basically just documented her season of treeplanting and shows you what to expect. 
+
 [BC Bigfoot](https://www.youtube.com/watch?v=z3GpMpfjHZk&ab_channel=BritishColumbiaBigfoot). This guy has a good video I'll link about being a forest technician, he has his own company i think and makes it look fun. But he doesnt really explain what he does or what a forest technician is.
-**Hengda**. This guy has a video on what you do as a forestry technician in BC. He talks about what you do and what to expect i think. 
+
+[Hengda](https://www.youtube.com/watch?v=z3GpMpfjHZk&ab_channel=BritishColumbiaBigfoot). This guy has a video on what you do as a forestry technician in BC. He talks about what you do and what to expect i think. 
 
 also i need to add like tree guide website and shit
