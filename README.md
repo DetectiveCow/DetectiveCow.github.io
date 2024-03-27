@@ -18,11 +18,18 @@
 
 Coolest highways in bc 
 All highways in the country ![Roads-Canada-frame](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/3885383e-ab27-4e23-9cbe-9f6b2d3aeac9) 
+
 Trans Canada ![TransCanadaHWY](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/23ac891a-8180-4123-a8ac-487a6c92413d)
+
 Yellowhead HWY ![YellowheadHWY](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/27b1fae5-da0a-4d11-a2bc-605e35e83bab)
+
 Alaska HWY (Goes through canada) ![AlaskaHwy](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/bbcc6403-e663-4576-b785-665233144f89)
+
 Demster HWY ![DemsterHWYmap](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/dd3cae3b-83e0-4683-a24c-6f4384851e45)
-nuvikTuktoyatukHwy ![InuvikTuktoyatukHwyMap](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/09322734-1ce0-49a1-872d-c8d8dc6eceda)
+
+InuvikTuktoyatukHwy ![InuvikTuktoyatukHwyMap](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/09322734-1ce0-49a1-872d-c8d8dc6eceda)
+
 SeaToSkyHwy ): s![SeaToSkyHwy](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/1d8c9d8f-5e5a-44b0-bc38-24ad20eb323b)
+
 Coquihalla 💀 ![coquihalla](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/80604ba3-b6af-4da4-b263-63ae33a4d4fb)
 ![Screenshot_11](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/11d2df93-88fe-4021-b2fa-53cb5b6acd81) Artillery platforms along the coquihalla highway that would let hgihway patrol to shoot down the snow before it piled up and became a avalanche risk. prolly not in use now
