@@ -119,4 +119,9 @@ Youtube videos
 
 [Hengda](https://www.youtube.com/watch?v=z3GpMpfjHZk&ab_channel=BritishColumbiaBigfoot). This guy has a video on what you do as a forestry technician in BC. He talks about what you do and what to expect i think. 
 
-also i need to add like tree guide website and shit
+BC Forest Websites
+
+
+[BC Forest Map](https://bcforestmap.com/#6.790740289960501/54.59337874298666/-123.02909319159183). This sections of BC Forest Map that I've highlighted shows BC's planned logging land as well as protected land.
+
+[BC FSR](https://backcountrybc.ca/maps-and-media/resource-trip-planning-maps/forest-service-road-dynamic-map). A interactive map with all of the provinces Forest Service Road. Also includes some information about the roads as well as the status.
