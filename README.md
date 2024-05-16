@@ -2,9 +2,9 @@
 
 [Click here to see the websites](#Website-list)
 
-[Click here for maps of major highways in Canada](#Coolest-highways-in-canada)
+[Click here for maps of major highways in Canada](#highways-in-canada)
 
-[Click here for places I'd like to go](#Places-I'd-like-to-go-in-Canada)
+[Click here for places I'd like to go](#Places)
 
 [Click here for forestry stuff](#Forestry)
 
@@ -30,7 +30,7 @@
 
 
 
-# #Coolest highways in canada 
+# #highways in canada 
 All highways in the country 
 
 ![Roads-Canada-frame](https://github.com/DetectiveCow/DetectiveCow.github.io/assets/84587584/3885383e-ab27-4e23-9cbe-9f6b2d3aeac9) 
@@ -76,7 +76,7 @@ Coquihalla 💀
 
 
 
-# #Places I'd like to go in Canada
+# #Places
 [Mount King george](https://www.google.com/maps/place/Mount+King+George/@48.0578807,-139.7264798,5z/data=!4m11!1m3!11m2!2sBVJXwAraR4jtRVQhQPDRHO5OP1pf4g!3e2!3m6!1s0x537087a5491fbe89:0xa5512cda70a1ea36!8m2!3d50.5963888!4d-115.405!15sCgEqkgEEcGVha-ABAA!16s%2Fg%2F11clg_50xf?entry=ttu), mount king george seems like a nice mountain to try and peak, bc has a bunch of mountains to climnb but this is one id like to try. 
 
 [Mount Pilchuck](https://www.google.com/maps/place/Mt+Pilchuck/@48.0578807,-139.7264798,5z/data=!4m11!1m3!11m2!2sBVJXwAraR4jtRVQhQPDRHO5OP1pf4g!3e2!3m6!1s0x549ab43233fd5bad:0xf0dcde198862fd33!8m2!3d48.0578807!4d-121.7967923!15sCgEqWgMiASqSAQRwZWFr4AEA!16zL20vMGc2bjFt?entry=ttu), This mountain is nice because its pretty close and accesible to my house. You can acess it by paved roads and the mountain has multiple trails. What really stands out is the old lookout tower on top of the mountain with paranomic views on rainier mountains. Its probably really busy though because social media has made this spot famous. 
