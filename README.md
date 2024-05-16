@@ -1,4 +1,4 @@
-# This page is a directory for some of the coolest website/tools I found. All focused on exploring.
+# This page is a directory for sum dumb shi
 
 [Click here to see the websites](#Website-list)
 
