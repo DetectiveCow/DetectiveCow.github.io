@@ -122,6 +122,12 @@ Youtube videos
 BC Forest Websites
 
 
+Vanlife shit
+wind direction (windy.com)
+camping spot finder (ioverlander.com) (ios app sucks)
+cheaper gas (gasbuddy.com) (probably never gonna use this)
+
+
 [BC Forest Map](https://bcforestmap.com/#6.790740289960501/54.59337874298666/-123.02909319159183). This sections of BC Forest Map that I've highlighted shows BC's planned logging land as well as protected land.
 
 [BC FSR](https://backcountrybc.ca/maps-and-media/resource-trip-planning-maps/forest-service-road-dynamic-map). A interactive map with all of the provinces Forest Service Road. Also includes some information about the roads as well as the status.
